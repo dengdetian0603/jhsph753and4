@@ -69,7 +69,7 @@ You are to create a [swirl](http://swirlstats.com/) tutorial on an advanced stat
 * Classification and regression trees
 * Prediction study design (test/training sets/cross validation)
 * Random forests
-* Linear discriminant analysis
+* __Linear discriminant analysis(taken)__
 * Cross validation 
 * Automated model selection (AIC, BIC,etc.)
 * Regularized regression (ridge regression, lasso, etc.)
